@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Build Path 설정은 왜 해야 하는걸까?"
+title:  "Build Path 설정은 왜 하는걸까?"
 author: julius
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
