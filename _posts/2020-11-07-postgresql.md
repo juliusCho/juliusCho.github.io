@@ -7,13 +7,9 @@ tags: [red, yellow]
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
 hidden: true
-rating: 4.5
-beforetoc: "해당 문서는 PostgreSQL 13 버전을 기준으로 작성되었습니다. 따라서 다른 버전에서는 다른 커맨드가 필요하거나, 커맨드의 실행에 대한 결과값이 다를 수 있습니다."
+beforetoc: "** 해당 포스팅은 제가 찾은 정보들을 바탕으로 작성된 것이며, 정보가 빈약하거나 오류가 있을 수 있습니다. 댓글로 지적 & 수정요청 해주시면 너무나 감사하겠습니다!"
 ---
-
-`** 해당 포스팅은 제가 찾은 정보들을 바탕으로 작성된 것이며, 정보가 빈약하거나 오류가 있을 수 있습니다.
-댓글로 지적 & 수정요청 해주시면 너무나 감사하겠습니다!`
-
+`해당 문서는 PostgreSQL 13 버전을 기준으로 작성되었습니다. 따라서 다른 버전에서는 다른 커맨드가 필요하거나, 커맨드의 실행에 대한 결과값이 다를 수 있습니다.`
 
 ## PostgreSQL 설치 및 구동
 1\. PostgreSQL 설치

@@ -3,12 +3,10 @@ layout: post
 title:  "Jira/Confluence & Notion 연동에 대해"
 author: julius
 categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
-beforetoc: "Jira/Confluence와 Notion의 연동은 글 작성일 기준 현 시점에서는 불가능한 것으로 판명되었습니다."
+beforetoc: "** 해당 포스팅은 제가 찾은 정보들을 바탕으로 작성된 것이며, 정보가 빈약하거나 오류가 있을 수 있습니다. 댓글로 지적 & 수정요청 해주시면 너무나 감사하겠습니다!"
 toc: true
 ---
-`** 해당 포스팅은 제가 찾은 정보들을 바탕으로 작성된 것이며, 정보가 빈약하거나 오류가 있을 수 있습니다.
-댓글로 지적 & 수정요청 해주시면 너무나 감사하겠습니다!`
+`Jira/Confluence와 Notion의 연동은 글 작성일 기준 현 시점에서는 불가능한 것으로 판명되었습니다.`
 
 저처럼 회사에서는 Jira/Confluence를 사용하며, 얼마전부터 무료 퍼스널 플랜을 발표한 후부터 개인적인 할일이나 계획 등을 정리하는 용도로 Notion을 사용하는 분들이 꽤 있으리라 생각됩니다(혹은 팀 플랜으로 Notion도 같이 사용하는 회사도 많지요). 그러다 분명 Notion에 정리한 자료를 Jira나 Confluence로, 혹은 그 반대로 옮기거나 연동하고픈 생각을 분명 한번쯤은 해보셨을것 같은데요.
 
