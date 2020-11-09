@@ -4,7 +4,6 @@ title:  "MacOS x Homebrew - PostgreSQL 설치 및 로컬DB 생성"
 author: julius
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/11.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
 hidden: true

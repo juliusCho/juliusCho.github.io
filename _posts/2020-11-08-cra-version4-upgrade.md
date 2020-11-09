@@ -3,7 +3,6 @@ layout: post
 title:  "CRA 버전 4 업그레이드"
 author: julius
 categories: [ Jekyll, tutorial ]
-image: assets/images/17.jpg
 beforetoc: "기존 Create React App 패키지 버전 3에서 4로 업그레이드할 경우입니다."
 ---
 

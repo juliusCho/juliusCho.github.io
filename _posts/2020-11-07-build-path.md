@@ -3,7 +3,6 @@ layout: post
 title:  "Build Path 설정은 왜 하는걸까?"
 author: julius
 categories: [ Jekyll, tutorial ]
-image: assets/images/16.jpg
 beforetoc: 
 ---
 `** 해당 포스팅은 제가 찾은 정보들을 바탕으로 작성된 것이며, 정보가 빈약하거나 오류가 있을 수 있습니다.
