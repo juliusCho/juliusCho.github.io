@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "External Featured Image"
-author: julius
 categories: [ Jekyll, tutorial, web development ]
 ---
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
