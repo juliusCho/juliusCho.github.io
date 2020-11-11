@@ -48,8 +48,8 @@ brew services start postgresql
 ```
 
 2\. pgAdmin 4.app 실행
-* /Library/PostgreSQL/[버] 경로 디렉터리에서 pgAdmin 4.app을 실행시킵니다.
+* `/Library/PostgreSQL/[버전]` 경로 디렉터리에서 `pgAdmin 4.app`을 실행시킵니다.
 * 최초 서버 접속 시에 현재 OS 사용자의 비밀번호를 입력합니다.
-* 좌측 Servers 인스턴스를 열어, 하단의 PostgreSQL [버전] 인스턴스를 클릭하면, "postgres" 사용자에 대한 비밀번호를 묻는데, 빈칸으로 ok를 누르시면 접속이 됩니다.
+* 좌측 Servers 인스턴스를 열어, 하단의 `PostgreSQL [버전]` 인스턴스를 클릭하면, "postgres" 사용자에 대한 비밀번호를 묻는데, `빈칸으로 ok를 누르시면 접속`이 됩니다.
 * 사용자 Role과 동일한 이름으로 DB가 기본 생성되어 있습니다.
 * 따라서 접속한 "postgres" DB 인스턴스 내부의 "Schemas" 인스턴스를 우측클릭하여 "create"를 선택 후, 스키마 명을 입력하여 생성합니다.
