@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CRA 버전 4 업그레이드"
-categories: [ Jekyll, tutorial ]
+categories: [ React ]
 featured: true
 beforetoc: "** 해당 포스팅은 제가 찾은 정보들을 바탕으로 작성된 것이며, 정보가 빈약하거나 오류가 있을 수 있습니다. 댓글로 지적 & 수정요청 해주시면 너무나 감사하겠습니다!"
 ---

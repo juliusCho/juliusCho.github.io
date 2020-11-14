@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MacOS x Homebrew - PostgreSQL 설치 및 로컬DB 생성"
-categories: [ Jekyll, tutorial ]
+categories: [ MacOS, RDB ]
 tags: [red, yellow]
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
