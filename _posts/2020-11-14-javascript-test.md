@@ -71,8 +71,8 @@ test('myDiv 찾기', () => {
 
 ```
 [JS]
-fixture \`테스트 페이지 테스트\`
-  .page \`http://localhost:80/test\`
+fixture `테스트 페이지 테스트`
+  .page `http://localhost:80/test`
 
 test('버튼 동작 여부 테스트', async t => {
   await t
